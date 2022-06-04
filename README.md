@@ -42,7 +42,9 @@ Table 1 The tissue position and spatial gene expression of mouse brain after IVH
 	
 	IVH_7d_2_110
 
+	
 	Supplementary for Result 3 (SR3)
+
 Table 1 The planar upregulated and downregulated transition genes for each planner sub-trajectory at different time
 	
 	IVH_1d
@@ -72,7 +74,9 @@ Table 2.2 The top 30 3D downregulated transition genes for each 3D sub-trajector
 	
 	IVH_S1
 
+	
 	Supplementary for Result 4 (SR4)
+
 Table 1 Cell subtypes corresponding the selected trajectory at different time
 
 Table 2 The marker gene sets of cell subtypes corresponding the selected trajectory at different time
@@ -83,8 +87,11 @@ Table 4 The cell types that are as same as cell subtypes corresponding the selec
 
 Table 5 The cell types shared by our identified cell subtypes at different time on the same trajectory.
 
+	
 	Supplementary for Result 5 (SR5)
+
 Table 1 Upregulated/downregulated transition ligand-receptor sets
+
 1.1： IVH_1d upregulated transition ligand-receptor sets
 
 1.2： IVH_1d downregulated transition ligand-receptor sets
@@ -157,6 +164,7 @@ Table 4 The Density for each ligand-receptor of cell subtypes
 
 Table 5 The Kruskal-Wallis test for Density among these cell subtypes respectively on trajectory VL→fxs→CA1→DG , TH→CA1→DG and VL→I→(V,VIa,VIb). 
 
+	
 	Supplementary for Result 6 (SR6)
 
 Table 1 Marker genes of similar cell types for our identified cell subtypes
