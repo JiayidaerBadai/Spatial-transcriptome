@@ -82,21 +82,21 @@ Table S19. The cell types shared by our identified cell subtypes at different ti
 
 Table S20. Upregulated/downregulated transition ligand‒receptor sets
 
-        Table S20.1. IVH_1d upregulated transition ligand-receptor sets
+      Table S20.1. IVH_1d upregulated transition ligand-receptor sets
 
-        Table S20.2. IVH_1d downregulated transition ligand-receptor sets
+      Table S20.2. IVH_1d downregulated transition ligand-receptor sets
 
-        Table S20.3. IVH_3d upregulated transition ligand-receptor sets
+      Table S20.3. IVH_3d upregulated transition ligand-receptor sets
 
-        Table S20.4. IVH_3d downregulated transition ligand-receptor sets
+      Table S20.4. IVH_3d downregulated transition ligand-receptor sets
 
-        Table S20.5. IVH_7d upregulated transition ligand-receptor sets
+      Table S20.5. IVH_7d upregulated transition ligand-receptor sets
 
-        Table S20.6. IVH_7d downregulated transition ligand-receptor sets
+      Table S20.6. IVH_7d downregulated transition ligand-receptor sets
 
-        Table S20.7. IVH_S1 upregulated transition ligand-receptor sets
+      Table S20.7. IVH_S1 upregulated transition ligand-receptor sets
 
-        Table S20.8. IVH_S1 downregulated transition ligand-receptor sets
+      Table S20.8. IVH_S1 downregulated transition ligand-receptor sets
 
 Table S21. The interaction intensity value Zscore (CCI) for the upregulated/downregulated transition ligand‒receptor sets
 
