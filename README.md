@@ -183,7 +183,7 @@ Table 1 The tissue position and spatial gene expression of mouse brain after IVH
         
 	IVH_C1_50
 
-      IVH_C1_110
+    IVH_C1_110
 	
 	IVH_S1_50
 	
@@ -269,9 +269,9 @@ Supplementary for Result 5 (SR5)
 
 Table 1 Upregulated/downregulated transition ligand-receptor sets
 
-   1.1： IVH_1d upregulated transition ligand-receptor sets
+       1.1： IVH_1d upregulated transition ligand-receptor sets
 
-   1.2： IVH_1d downregulated transition ligand-receptor sets
+       1.2： IVH_1d downregulated transition ligand-receptor sets
 
        1.3： IVH_3d upregulated transition ligand-receptor sets
 
