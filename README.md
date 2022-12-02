@@ -1,7 +1,44 @@
 # Supplemental Materials-Supplemental Tables
 
 Table S12. The tissue position and spatial gene expression of the mouse brain after IVH
-
+        IVH_C1_50
+	
+	IVH_C1_110
+	
+	IVH_S1_50
+	
+	IVH_S1_80
+	
+	IVH_S1_110
+	
+	IVH_1d_1_20
+	
+	IVH_1d_1_50
+	
+	IVH_1d_1_80
+	
+	IVH_1d_1_110
+	
+	IVH_1d_1_130
+	
+	IVH_1d_1_150
+	
+	IVH_3d_3_20
+	
+	IVH_3d_3_50
+	
+	IVH_3d_3_110
+	
+	IVH_3d_3_130
+	
+	IVH_3d_3_150
+	
+	IVH_7d_2_50
+	
+	IVH_7d_2_80
+	
+	IVH_7d_2_110
+	
 Table S13. Planar upregulated and downregulated transition genes for each planner subtrajectory at different times
 
 Table S14.1. The top 30 3D upregulated transition genes for each 3D subtrajectory at different times
