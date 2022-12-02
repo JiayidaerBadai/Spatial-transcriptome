@@ -13,6 +13,12 @@ Table S15. Cell subtypes corresponding to the selected trajectory at different t
 
 Table S16. The marker gene sets of cell subtypes corresponding to the selected trajectory at different times
 
+Table S17. The similarity between cell subtypes at different times on the same trajectory
+
+Table S18. The cell types that are the same as the cell subtypes corresponding to the selected trajectory at different times
+
+Table S19. The cell types shared by our identified cell subtypes at different times on the same trajectory
+
 
 
 
