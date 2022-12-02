@@ -19,6 +19,16 @@ Table S18. The cell types that are the same as the cell subtypes corresponding t
 
 Table S19. The cell types shared by our identified cell subtypes at different times on the same trajectory
 
+Table S20. Upregulated/downregulated transition ligand‒receptor sets
+
+Table S21. The interaction intensity value Zscore (CCI) for the upregulated/downregulated transition ligand‒receptor sets
+
+Table S22. The interaction value ZT converted from Zscore (CCI) for the upregulated/downregulated transition ligand‒receptor sets
+
+Table S23. Density for each ligand receptor of the cell subtypes
+
+
+
 
 
 
