@@ -305,39 +305,39 @@ Table 2 The interaction intensity value Zscore (CCI) for the upregulated/downreg
 
 Table 3 The interaction value ZT converted from Zscore (CCI) for the upregulated/downregulated transition ligand-receptor sets. 
 
-        3.1： The interaction intensity value ZT for the IVH_1d upregulated transition ligand-receptor sets
+     3.1： The interaction intensity value ZT for the IVH_1d upregulated transition ligand-receptor sets
 
-        3.2： The interaction intensity value ZT for the IVH_1d downregulated transition ligand-receptor sets
+     3.2： The interaction intensity value ZT for the IVH_1d downregulated transition ligand-receptor sets
 
-        3.3： The interaction intensity value ZT for the IVH_3d upregulated transition ligand-receptor sets
+     3.3： The interaction intensity value ZT for the IVH_3d upregulated transition ligand-receptor sets
 
-        3.4： The interaction intensity value ZT for the IVH_3d downregulated transition ligand-receptor sets
+     3.4： The interaction intensity value ZT for the IVH_3d downregulated transition ligand-receptor sets
 
-        3.5： The interaction intensity value ZT for the IVH_7d upregulated transition ligand-receptor sets
+     3.5： The interaction intensity value ZT for the IVH_7d upregulated transition ligand-receptor sets
 
-        3.6： The interaction intensity value ZT for the IVH_7d downregulated transition ligand-receptor sets
+     3.6： The interaction intensity value ZT for the IVH_7d downregulated transition ligand-receptor sets
 
-        3.7： The interaction intensity value  ZT for the IVH_S1 upregulated transition ligand-receptor sets
+     3.7： The interaction intensity value  ZT for the IVH_S1 upregulated transition ligand-receptor sets
 
-        3.8： The interaction intensity value ZT for the IVH_S1 downregulated transition ligand-receptor sets  
+     3.8： The interaction intensity value ZT for the IVH_S1 downregulated transition ligand-receptor sets  
 
 Table 4 The Density for each ligand-receptor of cell subtypes
 
-        4.1： The average Density for each ligand-receptor of IVH_1d upregulated transition ligand-receptor sets
+     4.1： The average Density for each ligand-receptor of IVH_1d upregulated transition ligand-receptor sets
 
-        4.2：The average Density for each ligand-receptor of IVH_1d downregulated transition ligand-receptor sets
+     4.2：The average Density for each ligand-receptor of IVH_1d downregulated transition ligand-receptor sets
 
-        4.3： The average Density for each ligand-receptor of IVH_3d upregulated transition ligand-receptor sets
+     4.3： The average Density for each ligand-receptor of IVH_3d upregulated transition ligand-receptor sets
 
-        4.4：The average Density for each ligand-receptor of IVH_3d downregulated transition ligand-receptor sets
+     4.4：The average Density for each ligand-receptor of IVH_3d downregulated transition ligand-receptor sets
 
-        4.5： The average Density for each ligand-receptor of IVH_7d upregulated transition ligand-receptor sets
+     4.5： The average Density for each ligand-receptor of IVH_7d upregulated transition ligand-receptor sets
 
-        4.6：The average Density for each ligand-receptor of IVH_7d downregulated transition ligand-receptor sets
+     4.6：The average Density for each ligand-receptor of IVH_7d downregulated transition ligand-receptor sets
+        
+     4.7： The average Density for each ligand-receptor of IVH_S1 upregulated transition ligand-receptor sets
 
-        4.7： The average Density for each ligand-receptor of IVH_S1 upregulated transition ligand-receptor sets
-
-        4.8：The average Density for each ligand-receptor of IVH_S1 downregulated transition ligand-receptor sets  
+     4.8：The average Density for each ligand-receptor of IVH_S1 downregulated transition ligand-receptor sets  
 
 Table 5 The Kruskal-Wallis test for Density among these cell subtypes respectively on trajectory VL→fxs→CA1→DG , TH→CA1→DG and VL→I→(V,VIa,VIb). 
 
@@ -347,19 +347,19 @@ Table 1 Marker genes of similar cell types for our identified cell subtypes
 
 Table 2 The mutual pathway sets for our identified cell subtypes
 
-        2.1 The mutual pathway sets for trajectory VL→fxs→CA1→DG
+     2.1 The mutual pathway sets for trajectory VL→fxs→CA1→DG
 
-        2.2 The mutual pathway sets for trajectory TH→CA1→DG
+     2.2 The mutual pathway sets for trajectory TH→CA1→DG
 
-        2.3 The mutual pathway sets for trajectory VL→I→(V,VIa,VIb)
+     2.3 The mutual pathway sets for trajectory VL→I→(V,VIa,VIb)
 
 Table 3 The mutual pathway sets for similar cell types
 
-        3.1 The mutual pathway sets for similar cell types of trajectory VL→fxs→CA1→DG
+     3.1 The mutual pathway sets for similar cell types of trajectory VL→fxs→CA1→DG
 
-        3.2 The mutual pathway sets for similar cell types of trajectory TH→CA1→DG
+     3.2 The mutual pathway sets for similar cell types of trajectory TH→CA1→DG
 
-        3.3 The mutual pathway sets for similar cell types of trajectory VL→I→(V,VIa,VIb)
+     3.3 The mutual pathway sets for similar cell types of trajectory VL→I→(V,VIa,VIb)
 
 Table 4 The mutual pathway set between our identified cell subtypes and similar cell types 
 
