@@ -27,15 +27,15 @@ Table S22. The interaction value ZT converted from Zscore (CCI) for the upregula
 
 Table S23. Density for each ligand receptor of the cell subtypes
 
+Table S24. The Kruskal‒Wallis test for density among these cell subtypes was performed on trajectories VL→fxs→CA1→DG, TH→CA1→DG and VL→I→(V,VIa,VIb)
 
+Table S25. Marker genes of similar cell types for our identified cell subtypes
 
+Table S26. The mutual pathway sets for our identified cell subtypes
 
+Table S27. The mutual pathway sets for similar cell types
 
-
-
-
-
-
+Table S28. The mutual pathway set between our identified cell subtypes and similar cell types
 
 # Spatial-transcriptome
 This supplementary of results section consists of 5 supplementary tables, which is listed as below.
