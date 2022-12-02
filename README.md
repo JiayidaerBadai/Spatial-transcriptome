@@ -275,33 +275,33 @@ Table 1 Upregulated/downregulated transition ligand-receptor sets
 
      1.3： IVH_3d upregulated transition ligand-receptor sets
 
-       1.4： IVH_3d downregulated transition ligand-receptor sets
+     1.4： IVH_3d downregulated transition ligand-receptor sets
 
-       1.5： IVH_7d upregulated transition ligand-receptor sets
+     1.5： IVH_7d upregulated transition ligand-receptor sets
 
-       1.6： IVH_7d downregulated transition ligand-receptor sets
+     1.6： IVH_7d downregulated transition ligand-receptor sets
 
-       1.7 ：IVH_S1 upregulated transition ligand-receptor sets
+     1.7 ：IVH_S1 upregulated transition ligand-receptor sets
 
-       1.8 ：IVH_S1 downregulated transition ligand-receptor sets
+     1.8 ：IVH_S1 downregulated transition ligand-receptor sets
 
 Table 2 The interaction intensity value Zscore (CCI) for the upregulated/downregulated transition ligand-receptor sets.
 
-        2.1： The interaction intensity value Zscore (CCI) for the IVH_1d upregulated transition ligand-receptor sets
+     2.1： The interaction intensity value Zscore (CCI) for the IVH_1d upregulated transition ligand-receptor sets
 
-        2.2： The interaction intensity value Zscore (CCI) for the IVH_1d downregulated transition ligand-receptor sets
+     2.2： The interaction intensity value Zscore (CCI) for the IVH_1d downregulated transition ligand-receptor sets
 
-        2.3： The interaction intensity value Zscore (CCI) for the IVH_3d upregulated transition ligand-receptor sets
+     2.3： The interaction intensity value Zscore (CCI) for the IVH_3d upregulated transition ligand-receptor sets
 
-        2.4： The interaction intensity value Zscore (CCI) for the IVH_3d downregulated transition ligand-receptor sets
+     2.4： The interaction intensity value Zscore (CCI) for the IVH_3d downregulated transition ligand-receptor sets
 
-        2.5： The interaction intensity value Zscore (CCI) for the IVH_7d upregulated transition ligand-receptor sets 
+     2.5： The interaction intensity value Zscore (CCI) for the IVH_7d upregulated transition ligand-receptor sets 
 
-        2.6： The interaction intensity value Zscore (CCI) for the IVH_7d downregulated transition ligand-receptor sets
+     2.6： The interaction intensity value Zscore (CCI) for the IVH_7d downregulated transition ligand-receptor sets
 
-        2.7： The interaction intensity value Zscore (CCI) for the IVH_S1 upregulated transition ligand-receptor sets
+     2.7： The interaction intensity value Zscore (CCI) for the IVH_S1 upregulated transition ligand-receptor sets
 
-        2.8： The interaction intensity value Zscore (CCI) for the IVH_S1 downregulated transition ligand-receptor sets 
+     2.8： The interaction intensity value Zscore (CCI) for the IVH_S1 downregulated transition ligand-receptor sets 
 
 Table 3 The interaction value ZT converted from Zscore (CCI) for the upregulated/downregulated transition ligand-receptor sets. 
 
