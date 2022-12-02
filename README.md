@@ -36,7 +36,7 @@ Table S27. The mutual pathway sets for similar cell types
 
 Table S28. The mutual pathway set between our identified cell subtypes and similar cell types
 
-# Spatial-transcriptome
+# Supplemental Materials-Supplemental Tables
 This supplementary of results section consists of 5 supplementary tables, which is listed as below.
 
 Supplementary of Result 1 (SR1)
