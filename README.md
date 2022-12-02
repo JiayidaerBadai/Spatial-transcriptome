@@ -1,5 +1,4 @@
-# Spatial-transcriptome
-Supplemental Materials-Supplemental Tables
+# Supplemental Materials-Supplemental Tables
 
 Table S12. The tissue position and spatial gene expression of the mouse brain after IVH
 
