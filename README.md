@@ -118,7 +118,39 @@ Table S21.8： The interaction intensity value Zscore (CCI) for the IVH_S1 downr
 
 Table S22. The interaction value ZT converted from Zscore (CCI) for the upregulated/downregulated transition ligand‒receptor sets
 
+Table S22.1： The interaction intensity value ZT for the IVH_1d upregulated transition ligand-receptor sets
+
+Table S22.2： The interaction intensity value ZT for the IVH_1d downregulated transition ligand-receptor sets
+
+Table S22.3： The interaction intensity value ZT for the IVH_3d upregulated transition ligand-receptor sets
+
+Table S22.4： The interaction intensity value ZT for the IVH_3d downregulated transition ligand-receptor sets
+
+Table S22.5： The interaction intensity value ZT for the IVH_7d upregulated transition ligand-receptor sets
+
+Table S22.6： The interaction intensity value ZT for the IVH_7d downregulated transition ligand-receptor sets
+
+Table S22.7： The interaction intensity value  ZT for the IVH_S1 upregulated transition ligand-receptor sets
+
+Table S22.8： The interaction intensity value ZT for the IVH_S1 downregulated transition ligand-receptor sets 
+
 Table S23. Density for each ligand receptor of the cell subtypes
+
+Table S23.1： The average Density for each ligand-receptor of IVH_1d upregulated transition ligand-receptor sets
+
+Table S23.2：The average Density for each ligand-receptor of IVH_1d downregulated transition ligand-receptor sets
+
+Table S23.3： The average Density for each ligand-receptor of IVH_3d upregulated transition ligand-receptor sets
+
+Table S23.4：The average Density for each ligand-receptor of IVH_3d downregulated transition ligand-receptor sets
+
+Table S23.5： The average Density for each ligand-receptor of IVH_7d upregulated transition ligand-receptor sets
+
+Table S23.6：The average Density for each ligand-receptor of IVH_7d downregulated transition ligand-receptor sets
+
+Table S23.7： The average Density for each ligand-receptor of IVH_S1 upregulated transition ligand-receptor sets
+
+Table S23.8：The average Density for each ligand-receptor of IVH_S1 downregulated transition ligand-receptor sets
 
 Table S24. The Kruskal‒Wallis test for density among these cell subtypes was performed on trajectories VL→fxs→CA1→DG, TH→CA1→DG and VL→I→(V,VIa,VIb)
 
