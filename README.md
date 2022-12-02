@@ -1,7 +1,8 @@
 # Supplemental Materials-Supplemental Tables
 
 Table S12. The tissue position and spatial gene expression of the mouse brain after IVH
-        IVH_C1_50
+        
+	IVH_C1_50
 	
 	IVH_C1_110
 	
