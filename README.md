@@ -158,7 +158,19 @@ Table S25. Marker genes of similar cell types for our identified cell subtypes
 
 Table S26. The mutual pathway sets for our identified cell subtypes
 
+Table S26.1 The mutual pathway sets for trajectory VL→fxs→CA1→DG
+
+Table S26.2 The mutual pathway sets for trajectory TH→CA1→DG
+
+Table S26.3 The mutual pathway sets for trajectory VL→I→(V,VIa,VIb)
+
 Table S27. The mutual pathway sets for similar cell types
+
+Table S27.1 The mutual pathway sets for similar cell types of trajectory VL→fxs→CA1→DG
+
+Table S27.2 The mutual pathway sets for similar cell types of trajectory TH→CA1→DG
+
+Table S27.3 The mutual pathway sets for similar cell types of trajectory VL→I→(V,VIa,VIb)
 
 Table S28. The mutual pathway set between our identified cell subtypes and similar cell types
 
