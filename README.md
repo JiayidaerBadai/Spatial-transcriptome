@@ -1,11 +1,19 @@
 # Spatial-transcriptome
 Supplemental Materials-Supplemental Tables
+
 Table S12. The tissue position and spatial gene expression of the mouse brain after IVH
+
 Table S13. Planar upregulated and downregulated transition genes for each planner subtrajectory at different times
+
 Table S14.1. The top 30 3D upregulated transition genes for each 3D subtrajectory at different times
+
 Table S14.2. The top 30 3D downregulated transition genes for each 3D subtrajectory at different times
+
 Table S15. Cell subtypes corresponding to the selected trajectory at different times
+
 Table S16. The marker gene sets of cell subtypes corresponding to the selected trajectory at different times
+
+
 
 
 
